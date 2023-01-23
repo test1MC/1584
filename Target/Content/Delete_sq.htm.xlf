@@ -7,9 +7,9 @@
     xml:space="preserve"
     original="Delete.htm"
     source-language="en-us"
+    target-language="sq"
     MadCap:file-filter=""
-    datatype="xhtml"
-    target-language="sq">
+    datatype="xhtml">
     <header>
       <skl><external-file
           href="Delete.htm.skl" /></skl>
@@ -55,9 +55,9 @@
             MadCap:matchPercent="0" /></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
-        phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
+        phase-name="pretrans"><source>Delete this text and replace it with your own content.robert</source><seg-source><mrk
             mtype="seg"
-            mid="1">Delete this text and replace it with your own content.</mrk></seg-source><target
+            mid="1">Delete this text and replace it with your own content.robert</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
